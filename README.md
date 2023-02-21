@@ -1,4 +1,4 @@
-# shapping
+# supermall
 
 ## Project setup
 ```
